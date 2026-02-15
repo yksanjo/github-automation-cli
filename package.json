@@ -1,0 +1,30 @@
+{
+  "name": "github-automation-cli",
+  "version": "1.0.0",
+  "description": "CLI tools for automating GitHub tasks - repo management, descriptions, and more",
+  "main": "src/index.js",
+  "bin": {
+    "gh-auto": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "update-descriptions": "node src/commands/update-descriptions.js"
+  },
+  "keywords": [
+    "github",
+    "automation",
+    "cli",
+    "productivity",
+    "tools"
+  ],
+  "author": "Yoshikondo",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.5",
+    "ora": "^5.4.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
