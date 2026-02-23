@@ -1,5 +1,12 @@
 # github-automation-cli
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/github-automation-cli/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/github-automation-cli/actions)
+![License](https://img.shields.io/github/license/yksanjo/github-automation-cli)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/github-automation-cli)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/github-automation-cli)
+
 ## Detailed Description
 
 github-automation-cli is maintained as an industry-grade software project with production-ready engineering practices.  
